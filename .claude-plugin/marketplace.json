@@ -1,0 +1,13 @@
+{
+  "name": "2yong-k",
+  "owner": { "name": "2yong-k", "url": "https://github.com/2yong-k" },
+  "metadata": { "description": "Claude Code plugins by 2yong-k." },
+  "allowCrossMarketplaceDependenciesOn": ["claude-plugins-official"],
+  "plugins": [
+    {
+      "name": "groundwork",
+      "source": { "source": "git-subdir", "url": "https://github.com/2yong-k/groundwork.git", "path": "plugins/groundwork" },
+      "description": "Interview, skeleton, design lock-in and a gate-passing scaffold from an empty folder, then the first task; overlay onto an existing project; operating rules, gates and runbooks."
+    }
+  ]
+}
