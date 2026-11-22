@@ -8,6 +8,11 @@
       "name": "groundwork",
       "source": { "source": "git-subdir", "url": "https://github.com/2yong-k/groundwork.git", "path": "plugins/groundwork" },
       "description": "Interview, skeleton, design lock-in and a gate-passing scaffold from an empty folder, then the first task; overlay onto an existing project; operating rules, gates and runbooks."
+    },
+    {
+      "name": "studio",
+      "source": { "source": "git-subdir", "url": "https://github.com/2yong-k/studio.git", "path": "plugins/studio" },
+      "description": "Make high-quality images and videos by asking Claude: a brief, an approved price quote, then generation and review."
     }
   ]
 }

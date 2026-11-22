@@ -14,6 +14,7 @@ Then install the plugins you want:
 | Plugin | What it does | Install | Source |
 |---|---|---|---|
 | groundwork | Start a software project from an empty folder and keep it on rails. Run it with `/groundwork:new`. | `/plugin install groundwork@2yong-k` | [2yong-k/groundwork](https://github.com/2yong-k/groundwork) |
+| studio | Make images and videos by asking Claude in plain words; nothing is generated until you approve its price estimate. macOS only. Run it with `/studio:studio`. | `/plugin install studio@2yong-k` | [2yong-k/studio](https://github.com/2yong-k/studio) |
 
 Each plugin's own README lists what it needs and the settings it asks for.
 
