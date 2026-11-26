@@ -7,7 +7,18 @@
     {
       "name": "groundwork",
       "source": { "source": "git-subdir", "url": "https://github.com/2yong-k/groundwork.git", "path": "plugins/groundwork" },
-      "description": "Interview, skeleton, design lock-in and a gate-passing scaffold from an empty folder, then the first task; overlay onto an existing project; operating rules, gates and runbooks."
+      "description": "Interview, skeleton, design lock-in and a gate-passing scaffold from an empty folder, then the first task; overlay onto an existing project; operating rules, gates and runbooks.",
+      "category": "development",
+      "tags": [
+        "project scaffolding",
+        "project template",
+        "new project",
+        "scaffold",
+        "bootstrap",
+        "spec-driven development",
+        "developer workflow",
+        "quality gates"
+      ]
     },
     {
       "name": "studio",
